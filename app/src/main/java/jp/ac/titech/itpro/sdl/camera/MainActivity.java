@@ -17,7 +17,6 @@ public class MainActivity extends AppCompatActivity {
 
     private final static int REQ_PHOTO = 1234;
     private Bitmap photoImage = null;
-    //ImageView imageView1;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
